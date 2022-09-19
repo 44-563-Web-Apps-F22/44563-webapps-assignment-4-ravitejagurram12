@@ -1,4 +1,4 @@
-.speech{
+.speech {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
@@ -6,48 +6,48 @@
 
 
 
-.direction{
+.direction {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
 }
 
-.name{
+.name {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
 }
 
-.direction:hover{
-    background-color:bisque;
+.direction:hover {
+    background-color: bisque;
     color:
 }
 
 
 
-.BAR{
-    color:brown;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
-}
-
-
-.LUD{
+.BAR {
     color: brown;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
 
 
-.JULIA{
-    color :brown;
+.LUD {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+
+.JULIA {
+    color: brown;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
 
 
 
-.ALL{
+.ALL {
     font-style: normal;
 }
 
@@ -56,17 +56,16 @@
     font-style: italic;
 }
 
-.song{
-    font-style:oblique;
+.song {
+    font-style: oblique;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
 }
 
-.song-1{
-    font-style:oblique;
+.song-1 {
+    font-style: oblique;
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
 }
-
