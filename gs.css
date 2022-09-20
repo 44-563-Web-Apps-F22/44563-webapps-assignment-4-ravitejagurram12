@@ -71,3 +71,22 @@
     font-size: medium;
     color: black;
 }
+
+.table, th ,td{
+    color: black;
+    border: solid 3px;
+    text-align: center;
+    border-collapse: collapse;
+    margin:auto;
+    padding: 20px;
+
+
+}
+
+tr:nth-child(odd)  {
+    background-color:ghostwhite
+ }
+
+tr:nth-child(even)  {
+    background-color:darkgray
+}
