@@ -21,7 +21,7 @@
 
 .direction:hover {
     background-color: bisque;
-    color:black;
+    color: black;
 }
 
 
@@ -32,9 +32,9 @@
     font-size: medium;
 }
 
-.BAR:hover{
-    background-color:bisque;
-    color:brown;
+.BAR:hover {
+    background-color: bisque;
+    color: brown;
     border: 2px solid;
     filter: blur(1px);
 }
@@ -45,9 +45,9 @@
     font-size: medium;
 }
 
-.LUD:hover{
-    background-color:bisque;
-    color:brown;
+.LUD:hover {
+    background-color: bisque;
+    color: brown;
     border: 2px solid;
     filter: blur(1px);
 }
@@ -76,7 +76,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
-    text-indent:25px;
+    text-indent: 25px;
 }
 
 .song-1 {
@@ -84,24 +84,32 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
-    text-indent:50px;
+    text-indent: 50px;
 }
 
-.table, th ,td{
+.table,
+th,
+td {
     color: black;
     border: solid 3px;
     text-align: center;
     border-collapse: collapse;
-    margin:auto;
+    margin: auto;
     padding: 20px;
 
 
 }
 
-tr:nth-child(odd)  {
-    background-color:ghostwhite
- }
+tr:nth-child(odd) {
+    background-color: ghostwhite
+}
 
-tr:nth-child(even)  {
-    background-color:darkgray
+tr:nth-child(even) {
+    background-color: darkgray
+}
+
+.SCENE {
+    color:olivedrab;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 }
