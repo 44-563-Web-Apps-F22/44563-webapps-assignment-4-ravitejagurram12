@@ -36,8 +36,10 @@
     background-color: bisque;
     color: brown;
     border: 2px solid;
-    filter: blur(1px);
+    filter: blur(0.5px);
+    text-shadow: 1px 4px;
 }
+
 
 .LUD {
     color: brown;
@@ -49,7 +51,8 @@
     background-color: bisque;
     color: brown;
     border: 2px solid;
-    filter: blur(1px);
+    filter: blur(0.5px);
+    text-shadow: 1px 4px;
 }
 
 .JULIA {
@@ -113,3 +116,26 @@ tr:nth-child(even) {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
+.navbar-horizontal {
+  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: azure;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:darkslategrey;
+    background-color:grey;
+   
+    }
+    .navbar-horizontal a {
+    display:block;
+    padding: 15px;
+    color: aliceblue;
+    }
+
+    .navbar-horizontal a:hover {  
+    background-color:chartreuse;
+    color:white;
+    }
